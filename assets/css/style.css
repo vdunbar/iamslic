@@ -1,7 +1,16 @@
+body {
+  font-family: "Menlo";
+}
+
 h1 a {
   display: none;
 }
 
 h1 {
-  color: blue;
+  color: red;
+}
+
+.container-lg {
+  width: 70%;
+  margin: auto;
 }
