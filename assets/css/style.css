@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto";
+  font-family: "Segoe UI";
   font-size: 120%;
 }
 
@@ -14,7 +14,7 @@ h1 a {
 }
 
 h1 {
-  color: black;
+  color: red;
 }
 
 blockquote {
@@ -24,7 +24,6 @@ blockquote {
 }
 
 .left {
-  text-aligh: left;
-  display: inline-block;
+  padding-left: left;
 }
 
