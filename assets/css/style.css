@@ -1,5 +1,11 @@
 body {
-  font-family: "Menlo";
+  font-family: "DejaVu Sans Mono";
+}
+
+
+.container-lg {
+  width: 70%;
+  margin: auto;
 }
 
 h1 a {
@@ -7,10 +13,16 @@ h1 a {
 }
 
 h1 {
-  color: red;
+  color: blue;
 }
 
-.container-lg {
-  width: 70%;
-  margin: auto;
+blockquote {
+  font-style: italics;
+  color: #888888;
+  tex-align: center;
 }
+
+.left {
+  text-aligh: left;
+}
+
