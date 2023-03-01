@@ -1,4 +1,6 @@
-# What we do matters: Libraries, climate change, and transformation
+# What we do matters
+
+## Libraries, climate change, and transformation
 
 > Every bit of warming matters, every year matters, every choice matters.
 
