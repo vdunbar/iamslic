@@ -1,6 +1,6 @@
 # What we do matters: Libraries, climate change, and transformation
 
-> Every bit of warming matters, every year matters, every choice matters
+> Every bit of warming matters, every year matters, every choice matters.
 
 <span class = "left">-- IPCC</span>
 
