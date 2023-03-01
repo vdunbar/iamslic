@@ -18,12 +18,14 @@ h1 {
 }
 
 blockquote {
-  font-style: italics;
+  font-style: italic;
   color: #888888;
-  tex-align: center;
+  text-align: center;
+  font-size: 140%;
 }
 
 .left {
+  text-align: center;
   padding-left: 20%;
 }
 
