@@ -1,11 +1,11 @@
 body {
-  font-family: "Segoe UI";
+  font-family: "Roboto";
   font-size: 120%;
 }
 
 
 .container-lg {
-  width: 60%;
+  width: 50%;
   margin: auto;
 }
 
@@ -14,7 +14,7 @@ h1 a {
 }
 
 h1 {
-  color: red;
+  color: black;
 }
 
 blockquote {
@@ -24,6 +24,6 @@ blockquote {
 }
 
 .left {
-  padding-left: left;
+  padding-left: 20%;
 }
 
