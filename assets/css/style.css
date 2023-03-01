@@ -3,7 +3,6 @@ body {
   font-size: 115%;
 }
 
-
 .container-lg {
   width: 40%;
   margin: auto;
@@ -24,6 +23,10 @@ blockquote {
   color: #888888;
   text-align: center;
   font-size: 140%;
+}
+
+p, blockquote {
+  line-height: 1.4em;
 }
 
 .left {
